@@ -1,0 +1,13 @@
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.exe
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.deps.json
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.runtimeconfig.json
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.runtimeconfig.dev.json
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.dll
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\netcoreapp3.1\KolkoKrzyzyk.pdb
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.csprojAssemblyReference.cache
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.AssemblyInfoInputs.cache
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.AssemblyInfo.cs
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.dll
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.pdb
+E:\Rok 2\AI\Zaliczenie\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\netcoreapp3.1\KolkoKrzyzyk.genruntimeconfig.cache
